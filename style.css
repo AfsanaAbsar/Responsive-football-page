@@ -171,6 +171,11 @@ button{
     align-items: center;
     justify-content: center;
 }
+.footer img{
+    margin-left: 150px;
+    margin-right: 150px;
+    width: 60%;
+}
 .social-icons{
     color: grey;
    
@@ -313,6 +318,9 @@ button{
     }   
     .footer{
         margin: 0;
+        width: 100%;
+    }
+    .footer img{
         width: 100%;
     }
 }
